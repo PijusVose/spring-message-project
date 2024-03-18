@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 public class MessageController {
 
     private static final String LINE_SEPARATOR = "\n";
-    private static final String BE_SUCCESS_MESSAGE = "BE works";
+    private static final String BE_SUCCESS_MESSAGE = "BE works, but does it?";
     private static final String DB_SUCCESS_MESSAGE = "DB works";
     private static final String DB_ERROR_MESSAGE = "DB error message:";
     private static final String STORED_MESSAGES = "Stored messages:";
